@@ -10,4 +10,12 @@ for i in data:
     total = total + i['faturamento']
     arrayFaturamento.append(i['faturamento'])
 
-print(arrayFaturamento)
+for i in arrayFaturamento:
+    if i == 0:
+        arrayFaturamento.remove(i)
+
+minFaturamento = min(arrayFaturamento)
+maxFaturamento = max(arrayFaturamento)
+
+print(minFaturamento)
+print(maxFaturamento)
