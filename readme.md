@@ -26,6 +26,16 @@
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
+<details>
+  <summary><strong>👨‍💻 RODANDO O CÓDIGO </strong></summary><br />
+
+* Na IDE de sua preferência (usei o VS Code), execulte o código Python, poderá usar a extensão "Code Run"
+
+
+* No console aparecerá o resultado das consultas ao arquivo JSON.
+
+</details>
+
 
 #### 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
