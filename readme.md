@@ -31,7 +31,6 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 * Na IDE de sua preferência (usei o VS Code), execulte o código Python, poderá usar a extensão "Code Run"
 
-
 * No console aparecerá o resultado das consultas ao arquivo JSON.
 
 </details>
@@ -46,9 +45,30 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 * Outros – R$19.849,53
 
 #### Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+
+<details>
+  <summary><strong>👨‍💻 RODANDO O CÓDIGO </strong></summary><br />
+
+* Na IDE de sua preferência (usei o VS Code), execulte o código JavaScript, poderá usar a extensão "Code Run"
+
+* No console aparecerá o resultado das porcentagens de acordo com cada estado.
+
+</details>
  
 #### 5) Escreva um programa que inverta os caracteres de um string.
 
 #### IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+
+<details>
+  <summary><strong>👨‍💻 RODANDO O CÓDIGO </strong></summary><br />
+
+* Na IDE de sua preferência (usei o VS Code), execulte o código Python, poderá usar a extensão "Code Run"
+
+* No console aparecerá o resultado de teste da função reverseString
+
+* Você poderá mudar o conteúdo passado por parâmetro no print e ver a função execultando o reverse normalmente.
+
+</details>
