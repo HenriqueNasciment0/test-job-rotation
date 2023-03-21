@@ -55,6 +55,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 </details>
  
+ 
 #### 5) Escreva um programa que inverta os caracteres de um string.
 
 #### IMPORTANTE:
